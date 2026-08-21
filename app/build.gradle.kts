@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.localaiforge.app"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.localaiforge.app"
